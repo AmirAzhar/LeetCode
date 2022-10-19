@@ -1,11 +1,7 @@
 // 623. Add One Row to Tree
 // https://leetcode.com/problems/add-one-row-to-tree/description/
 
-function addOneRow(
-  root: TreeNode | null,
-  val: number,
-  depth: number
-): TreeNode | null {
+function addOneRow(root, val, depth) {
   // Base Case: Depth is 1
   if (depth === 1) return new TreeNode(val, root, null);
 
