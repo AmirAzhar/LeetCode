@@ -10,6 +10,7 @@ var StockSpanner = function () {
 StockSpanner.prototype.next = function (price, span = 1) {
   // While they are elements in the stack, and the price of the last element is lesser than the new price
   // Update the span by adding on top of the prev span
+
   while (
     this.stack.length &&
     this.stack[this.stack.length - 1].price <= price
