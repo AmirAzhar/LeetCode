@@ -1,3 +1,6 @@
+// 724. Find Pivot Index
+// https://leetcode.com/problems/find-pivot-index/?envType=study-plan&id=level-1
+
 class Solution {
     public int pivotIndex(int[] nums) {
         int sum = 0;

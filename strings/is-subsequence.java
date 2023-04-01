@@ -1,3 +1,6 @@
+// 392. Is Subsequence
+// https://leetcode.com/problems/is-subsequence/?envType=study-plan&id=level-1
+
 package strings;
 
 class Solution {
