@@ -1,8 +1,6 @@
 // 11. Container With Most Water
 // https://leetcode.com/problems/container-with-most-water/description/
 
-package multiple_pointers;
-
 class Solution {
     public int maxArea(int[] height) {
         int max = 0, left = 0, right = height.length - 1;

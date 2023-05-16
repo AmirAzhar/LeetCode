@@ -1,8 +1,6 @@
 // 141. Linked List Cycle
 // https://leetcode.com/problems/linked-list-cycle/description/
 
-package linked_list;
-
 public class Solution {
     public boolean hasCycle(ListNode head) {
         ListNode fast = head, slow = head;

@@ -1,8 +1,6 @@
 // 226. Invert Binary Tree
 // https://leetcode.com/problems/invert-binary-tree/description/
 
-package binary_tree;
-
 class Solution {
     public TreeNode invertTree(TreeNode root) {
 

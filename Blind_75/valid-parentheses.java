@@ -1,8 +1,6 @@
 // 20. Valid Parentheses
 // https://leetcode.com/problems/valid-parentheses/description/
 
-package stack;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;

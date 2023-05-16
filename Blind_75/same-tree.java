@@ -1,8 +1,6 @@
 // 100. Same Tree
 // https://leetcode.com/problems/same-tree/description/
 
-package binary_tree;
-
 class Solution {
   public boolean isSameTree(TreeNode p, TreeNode q) {
 

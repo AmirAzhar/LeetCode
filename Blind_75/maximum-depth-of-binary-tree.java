@@ -1,8 +1,6 @@
 // 104. Maximum Depth of Binary Tree
 // https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 
-package binary_tree;
-
 class Solution {
     public int maxDepth(TreeNode root) {
 

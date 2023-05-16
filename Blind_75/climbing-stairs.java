@@ -1,8 +1,6 @@
 // 70. Climbing Stairs
 // https://leetcode.com/problems/climbing-stairs/description/
 
-package dynamic_programming;
-
 class Solution {
     public int climbStairs(int n) {
         if (n <= 1)

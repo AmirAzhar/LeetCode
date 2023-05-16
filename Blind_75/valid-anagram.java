@@ -1,8 +1,6 @@
 // 242. Valid Anagram
 // https://leetcode.com/problems/valid-anagram/description/
 
-package strings;
-
 class Solution {
     public boolean isAnagram(String s, String t) {
         int[] map = new int[26];

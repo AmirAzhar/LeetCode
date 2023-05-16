@@ -1,8 +1,6 @@
 // 572. Subtree of Another Tree
 // https://leetcode.com/problems/subtree-of-another-tree/
 
-package binary_tree;
-
 class Solution {
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         if (root == null)
