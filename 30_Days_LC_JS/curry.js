@@ -1,5 +1,5 @@
 // 2632. Curry
-// https://leetcode.com/problems/curry/description/?utm_campaign=PostD10&utm_medium=Post&utm_source=Post&gio_link_id=QRekxgjo
+// https://leetcode.com/problems/curry/description/
 
 /**
  * @param {Function} fn

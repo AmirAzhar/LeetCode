@@ -1,5 +1,5 @@
 // 2626. Array Reduce Transformation
-// https://leetcode.com/problems/array-reduce-transformation/description/?utm_campaign=PostD6&utm_medium=Post&utm_source=Post&gio_link_id=nPN45jD9
+// https://leetcode.com/problems/array-reduce-transformation/description/
 
 /**
  * @param {number[]} nums

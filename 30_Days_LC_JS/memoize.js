@@ -1,5 +1,5 @@
 // 2623. Memoize
-// https://leetcode.com/problems/memoize/description/?utm_campaign=PostD9&utm_medium=Post&utm_source=Post&gio_link_id=nRbADVd9
+// https://leetcode.com/problems/memoize/description/
 
 /**
  * @param {Function} fn

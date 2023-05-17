@@ -1,5 +1,5 @@
 // 2666. Allow One Function Call
-// https://leetcode.com/problems/allow-one-function-call/description/?utm_campaign=PostD8&utm_medium=Post&utm_source=Post&gio_link_id=a9By01Oo
+// https://leetcode.com/problems/allow-one-function-call/description/
 
 /**
  * @param {Function} fn

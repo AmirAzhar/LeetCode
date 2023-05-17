@@ -1,5 +1,5 @@
 // 2635. Apply Transform Over Each Element in Array
-// https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?utm_campaign=PostD4&utm_medium=Post&utm_source=Post&gio_link_id=noqbNOv9
+// https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/
 
 /**
  * @param {number[]} arr

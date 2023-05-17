@@ -1,5 +1,5 @@
 // 2629. Function Composition
-// https://leetcode.com/problems/function-composition/description/?utm_campaign=PostD7&utm_medium=Post&utm_source=Post&gio_link_id=4PY7wZM9
+// https://leetcode.com/problems/function-composition/description/
 
 /**
  * @param {Function[]} functions
