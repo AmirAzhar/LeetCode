@@ -16,7 +16,7 @@ var twoSum = function (nums, target) {
 };
 
 // Time: O(n)
-// Space: O(1)
+// Space: O(n)
 // init map where k:v is the element:index
 // Iterate through the array
 // Check in the map if (target - element) exists in the map
