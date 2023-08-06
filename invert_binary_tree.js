@@ -26,6 +26,8 @@ var invertTree = function (root) {
   return root;
 };
 
+// Time: O(n)
+// Space: O(h) where h is the height of the tree
 // do it recursively
 // i swap the child of the root first
 // then i move on to swap the children of above children that i already swapped
