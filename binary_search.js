@@ -32,3 +32,5 @@ var search = function (nums, target) {
 // if target < mid pointer -> search the left side by moving the right pointer to the left mid
 // if mid === target, return
 // if reach this point, no result -> return - 1
+
+// we use left + Math.floor((right - left) / 2) instead of Math.floor((right + left) / 2) in case right + left results in overflow
