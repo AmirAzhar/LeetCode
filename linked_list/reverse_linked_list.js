@@ -12,7 +12,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-var reverseList = function (head) {
+var reverseList_iterative = function (head) {
   let curr = head,
     next = null,
     prev = null;
@@ -34,3 +34,25 @@ var reverseList = function (head) {
 // make the current node point to the prev node
 // make the prev node the curr node
 // make the curr node the next node
+
+var reverseList_recursive = function (head) {
+  if (!head) return null;
+
+  newHead = head;
+  if (head.next) {
+    // if there still exists a subproblem
+    newHead = reverseList_recursive(head.next);
+    head.next.next = head;
+  }
+  head.next = null; // back at first head
+
+  return newHead;
+};
+
+// for a recursive method, we first look at what the smaller sub problem is
+// the smaller subproblem is to reverse the next node
+
+var reverseList = function (head) {
+  return reverseList_recursive(head);
+  return reverseList_iterative(head);
+};
