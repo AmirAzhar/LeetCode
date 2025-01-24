@@ -10,6 +10,10 @@
 
 1. [Longest Interval](insert-interval.java)
 
+## Heap
+
+[K Closest Points to Origin](k-closest-points-to-origin.java)
+
 # By Algorthm
 
 ## Sliding Window
