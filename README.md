@@ -9,13 +9,18 @@
 ## Arrays
 
 1. [Longest Interval](insert-interval.java)
+2. [Product of Array Except Self](product-of-array-except-self.java)
 
 ## Heap
 
-[K Closest Points to Origin](k-closest-points-to-origin.java)
+1. [K Closest Points to Origin](k-closest-points-to-origin.java)
 
 # By Algorthm
 
 ## Sliding Window
 
 1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
+
+## Prefix/Suffix Sum
+
+1. [Product of Array Except Self](product-of-array-except-self.java)
