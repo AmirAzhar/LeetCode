@@ -11,6 +11,7 @@
 1. [Longest Interval](insert-interval.java)
 2. [Product of Array Except Self](product-of-array-except-self.java)
 3. [Maximum Subarray](maximum-subarray.java)
+4. [Coin Change](coin-change.java)
 
 ## Heap
 
@@ -41,3 +42,4 @@
 ## DP
 
 1. [Maximum Subarray](maximum-subarray.java)
+2. [Coin Change](coin-change.java)
