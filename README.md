@@ -25,6 +25,10 @@
 
 1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
 
+## Queue
+
+1. [Number of Islands](number-of-islands.java)
+
 # By Algorthm
 
 ## Sliding Window
@@ -38,6 +42,10 @@
 ## DFS
 
 1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
+
+## BFS
+
+1. [Number of Islands](number-of-islands.java)
 
 ## DP
 
