@@ -29,6 +29,10 @@
 
 1. [Number of Islands](number-of-islands.java)
 
+## Map
+
+1. [Group Anagrams](group-anagrams.java)
+
 # By Algorthm
 
 ## Sliding Window
