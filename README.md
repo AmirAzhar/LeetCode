@@ -12,6 +12,7 @@
 2. [Product of Array Except Self](product-of-array-except-self.java)
 3. [Maximum Subarray](maximum-subarray.java)
 4. [Coin Change](coin-change.java)
+5. [Container With Most Water](container-with-most-water.java)
 
 ## Heap
 
@@ -35,9 +36,10 @@
 
 # By Algorthm
 
-## Sliding Window
+## Sliding Window / 2 Pointer
 
 1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
+2. [Container With Most Water](container-with-most-water.java)
 
 ## Prefix/Suffix Sum
 
