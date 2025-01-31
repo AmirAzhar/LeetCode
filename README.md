@@ -13,6 +13,7 @@
 3. [Maximum Subarray](maximum-subarray.java)
 4. [Coin Change](coin-change.java)
 5. [Container With Most Water](container-with-most-water.java)
+6. [House Robber](house-robber.java)
 
 ## Heap
 
@@ -57,3 +58,4 @@
 
 1. [Maximum Subarray](maximum-subarray.java)
 2. [Coin Change](coin-change.java)
+3. [House Robber](house-robber.java)
