@@ -36,6 +36,10 @@
 
 1. [Group Anagrams](group-anagrams.java)
 
+## Linked List
+
+1. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
+
 ## Doubly Linked List
 
 1. [LRU Cache](lru-cache.java)
@@ -50,6 +54,7 @@
 
 1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
 2. [Container With Most Water](container-with-most-water.java)
+3. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
 
 ## Prefix/Suffix Sum
 
