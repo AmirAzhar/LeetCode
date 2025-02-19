@@ -40,6 +40,10 @@
 
 1. [LRU Cache](lru-cache.java)
 
+## Trie
+
+1. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java)
+
 # By Algorthm
 
 ## Sliding Window / 2 Pointer
