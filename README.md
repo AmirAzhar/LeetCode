@@ -18,6 +18,7 @@
 ## Heap
 
 1. [K Closest Points to Origin](k-closest-points-to-origin.java)
+2. [Top K Frequent Words](top-k-frequent-words.java)
 
 ## Stack
 
