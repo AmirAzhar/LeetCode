@@ -35,6 +35,10 @@
 
 1. [Group Anagrams](group-anagrams.java)
 
+## Doubly Linked List
+
+1. [LRU Cache](lru-cache.java)
+
 # By Algorthm
 
 ## Sliding Window / 2 Pointer
