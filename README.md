@@ -27,6 +27,7 @@
 ## Tree
 
 1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
+2. [Validate Binary Search Tree](validate-binary-search-tree.java)
 
 ## Queue
 
@@ -63,6 +64,7 @@
 ## DFS
 
 1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
+2. [Validate Binary Search Tree](validate-binary-search-tree.java)
 
 ## BFS
 
