@@ -14,6 +14,7 @@
 4. [Coin Change](coin-change.java)
 5. [Container With Most Water](container-with-most-water.java)
 6. [House Robber](house-robber.java)
+7. [Trapping Rain Water](trapping-rain-water.java)
 
 ## Heap
 
@@ -56,6 +57,7 @@
 1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
 2. [Container With Most Water](container-with-most-water.java)
 3. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
+4. [Trapping Rain Water](trapping-rain-water.java)
 
 ## Prefix/Suffix Sum
 
