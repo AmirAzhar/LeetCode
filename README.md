@@ -5,6 +5,7 @@
 ## Strings
 
 1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
+2. [String Compression](string-compression.java)
 
 ## Arrays
 
