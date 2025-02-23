@@ -16,6 +16,7 @@
 6. [House Robber](house-robber.java)
 7. [Trapping Rain Water](trapping-rain-water.java)
 8. [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)
+9. [First Unique Character in a String](first-unique-character-in-a-string.java)
 
 ## 2D Arrays
 
