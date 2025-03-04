@@ -4,86 +4,120 @@
 
 ## Strings
 
-1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
-2. [String Compression](string-compression.java)
+| Problem                                                                                               | Last Completed |
+| ----------------------------------------------------------------------------------------------------- | -------------- |
+| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
+| [String Compression](string-compression.java)                                                         |                |
 
 ## Arrays
 
-1. [Longest Interval](insert-interval.java)
-2. [Product of Array Except Self](product-of-array-except-self.java)
-3. [Maximum Subarray](maximum-subarray.java)
-4. [Coin Change](coin-change.java)
-5. [Container With Most Water](container-with-most-water.java)
-6. [House Robber](house-robber.java)
-7. [Trapping Rain Water](trapping-rain-water.java)
-8. [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)
-9. [First Unique Character in a String](first-unique-character-in-a-string.java)
-10. [Sort Colors](sort-colors.java)
+| Problem                                                                       | Last Completed |
+| ----------------------------------------------------------------------------- | -------------- |
+| [Longest Interval](insert-interval.java)                                      |                |
+| [Product of Array Except Self](product-of-array-except-self.java)             |                |
+| [Maximum Subarray](maximum-subarray.java)                                     | 04/03/25       |
+| [Coin Change](coin-change.java)                                               |                |
+| [Container With Most Water](container-with-most-water.java)                   |                |
+| [House Robber](house-robber.java)                                             |                |
+| [Trapping Rain Water](trapping-rain-water.java)                               |                |
+| [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                   |                |
+| [First Unique Character in a String](first-unique-character-in-a-string.java) |                |
+| [Sort Colors](sort-colors.java)                                               | 04/03/25       |
 
 ## 2D Arrays
 
-1. [Game of Life](game-of-life.java)
+| Problem                           | Last Completed |
+| --------------------------------- | -------------- |
+| [Game of Life](game-of-life.java) |                |
 
 ## Heap
 
-1. [K Closest Points to Origin](k-closest-points-to-origin.java)
-2. [Top K Frequent Words](top-k-frequent-words.java)
+| Problem                                                       | Last Completed |
+| ------------------------------------------------------------- | -------------- |
+| [K Closest Points to Origin](k-closest-points-to-origin.java) |                |
+| [Top K Frequent Words](top-k-frequent-words.java)             |                |
 
 ## Stack
 
-1. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation.java)
+| Problem                                                                   | Last Completed |
+| ------------------------------------------------------------------------- | -------------- |
+| [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation.java) |                |
 
 ## Tree
 
-1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
-2. [Validate Binary Search Tree](validate-binary-search-tree.java)
+| Problem                                                                     | Last Completed |
+| --------------------------------------------------------------------------- | -------------- |
+| [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java) |                |
+| [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
 
 ## Queue
 
-1. [Number of Islands](number-of-islands.java)
+| Problem                                     | Last Completed |
+| ------------------------------------------- | -------------- |
+| [Number of Islands](number-of-islands.java) |                |
 
 ## Map
 
-1. [Group Anagrams](group-anagrams.java)
+| Problem                               | Last Completed |
+| ------------------------------------- | -------------- |
+| [Group Anagrams](group-anagrams.java) |                |
 
 ## Linked List
 
-1. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
+| Problem                                                                   | Last Completed |
+| ------------------------------------------------------------------------- | -------------- |
+| [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java) |                |
 
 ## Doubly Linked List
 
-1. [LRU Cache](lru-cache.java)
+| Problem                     | Last Completed |
+| --------------------------- | -------------- |
+| [LRU Cache](lru-cache.java) |                |
 
 ## Trie
 
-1. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java)
+| Problem                                                         | Last Completed |
+| --------------------------------------------------------------- | -------------- |
+| [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java) |                |
 
-# By Algorthm
+---
+
+# By Algorithm
 
 ## Sliding Window / 2 Pointer
 
-1. [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java)
-2. [Container With Most Water](container-with-most-water.java)
-3. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
-4. [Trapping Rain Water](trapping-rain-water.java)
-5. [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)
-6. [Sort Colors](sort-colors.java)
+| Problem                                                                                               | Last Completed |
+| ----------------------------------------------------------------------------------------------------- | -------------- |
+| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
+| [Container With Most Water](container-with-most-water.java)                                           |                |
+| [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)                             |                |
+| [Trapping Rain Water](trapping-rain-water.java)                                                       |                |
+| [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                                           |                |
+| [Sort Colors](sort-colors.java)                                                                       | 04/03/25       |
 
 ## Prefix/Suffix Sum
 
-1. [Product of Array Except Self](product-of-array-except-self.java)
+| Problem                                                           | Last Completed |
+| ----------------------------------------------------------------- | -------------- |
+| [Product of Array Except Self](product-of-array-except-self.java) |                |
 
 ## DFS
 
-1. [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java)
-2. [Validate Binary Search Tree](validate-binary-search-tree.java)
+| Problem                                                                     | Last Completed |
+| --------------------------------------------------------------------------- | -------------- |
+| [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java) |                |
+| [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
 
 ## BFS
 
-1. [Number of Islands](number-of-islands.java)
+| Problem                                     | Last Completed |
+| ------------------------------------------- | -------------- |
+| [Number of Islands](number-of-islands.java) |                |
 
 ## DP
 
-1. [Maximum Subarray](maximum-subarray.java)
-2. [Coin Change](coin-change.java)
-3. [House Robber](house-robber.java)
+| Problem                                   | Last Completed |
+| ----------------------------------------- | -------------- |
+| [Maximum Subarray](maximum-subarray.java) | 04/03/25       |
+| [Coin Change](coin-change.java)           |                |
+| [House Robber](house-robber.java)         |                |
