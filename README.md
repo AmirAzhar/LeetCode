@@ -18,6 +18,7 @@
 7. [Trapping Rain Water](trapping-rain-water.java)
 8. [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)
 9. [First Unique Character in a String](first-unique-character-in-a-string.java)
+10. [Sort Colors](sort-colors.java)
 
 ## 2D Arrays
 
@@ -66,6 +67,7 @@
 3. [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)
 4. [Trapping Rain Water](trapping-rain-water.java)
 5. [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)
+6. [Sort Colors](sort-colors.java)
 
 ## Prefix/Suffix Sum
 
