@@ -54,7 +54,7 @@
 
 | Problem                                     | Last Completed |
 | ------------------------------------------- | -------------- |
-| [Number of Islands](number-of-islands.java) |                |
+| [Number of Islands](number-of-islands.java) | 05/03/25       |
 
 ## Map
 
@@ -112,7 +112,7 @@
 
 | Problem                                     | Last Completed |
 | ------------------------------------------- | -------------- |
-| [Number of Islands](number-of-islands.java) |                |
+| [Number of Islands](number-of-islands.java) | 05/03/25       |
 
 ## DP
 
