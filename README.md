@@ -8,6 +8,7 @@
 | ----------------------------------------------------------------------------------------------------- | -------------- |
 | [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
 | [String Compression](string-compression.java)                                                         |                |
+| [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
 
 ## Arrays
 
@@ -94,6 +95,7 @@
 | [Trapping Rain Water](trapping-rain-water.java)                                                       |                |
 | [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                                           |                |
 | [Sort Colors](sort-colors.java)                                                                       | 04/03/25       |
+| [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
 
 ## Prefix/Suffix Sum
 
