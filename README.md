@@ -24,6 +24,7 @@
 | [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                   |                |
 | [First Unique Character in a String](first-unique-character-in-a-string.java) |                |
 | [Sort Colors](sort-colors.java)                                               | 04/03/25       |
+| [3 Sum](3sum.java)                                                            | 06/03/25       |
 
 ## 2D Arrays
 
@@ -97,6 +98,7 @@
 | [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                                           |                |
 | [Sort Colors](sort-colors.java)                                                                       | 04/03/25       |
 | [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
+| [3 Sum](3sum.java)                                                                                    | 06/03/25       |
 
 ## Prefix/Suffix Sum
 
