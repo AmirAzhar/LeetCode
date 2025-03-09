@@ -7,7 +7,7 @@
 | Problem                                                                                               | Last Completed |
 | ----------------------------------------------------------------------------------------------------- | -------------- |
 | [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
-| [String Compression](string-compression.java)                                                         |                |
+| [String Compression](string-compression.java)                                                         | 09/03/25       |
 | [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
 
 ## Arrays
