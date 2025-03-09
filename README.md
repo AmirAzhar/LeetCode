@@ -25,6 +25,7 @@
 | [First Unique Character in a String](first-unique-character-in-a-string.java) |                |
 | [Sort Colors](sort-colors.java)                                               | 04/03/25       |
 | [3 Sum](3sum.java)                                                            | 06/03/25       |
+| [Median of Two Sorted Arrays](median-of-two-sorted-arrays.java)               | 09/03/25       |
 
 ## 2D Arrays
 
@@ -127,3 +128,7 @@
 | [Maximum Subarray](maximum-subarray.java) | 04/03/25       |
 | [Coin Change](coin-change.java)           |                |
 | [House Robber](house-robber.java)         |                |
+
+## Binary Search
+
+| [Median of Two Sorted Arrays](median-of-two-sorted-arrays.java) | 09/03/25 |
