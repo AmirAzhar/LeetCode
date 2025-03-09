@@ -39,6 +39,41 @@ class Solution {
     }
 }
 
+// JS
+var findMedianSortedArrays = function(nums1, nums2) {
+    if (nums1.length > nums2.length){
+        let temp = nums1;
+        nums1 = nums2;
+        nums2 = temp;
+    }
+
+    let m = nums1.length;
+    let n = nums2.length;
+
+    let left = 0, right = m;
+
+
+    while (left <= right) {
+        let p1 = Math.floor((left + right) / 2);
+        let p2 = Math.floor((m + n + 1) / 2) - p1;
+
+        let leftMax1 = p1 == 0 ? -Infinity : nums1[p1 - 1];
+        let rightMin1 = p1 == m ? Infinity : nums1[p1];
+
+        let leftMax2 = p2 == 0 ? -Infinity : nums2[p2 - 1];
+        let rightMin2 = p2 == n ? Infinity : nums2[p2];
+
+        if (leftMax1 <= rightMin2 && leftMax2 <= rightMin1) {
+            if ((m + n) % 2 == 1) return Math.max(leftMax1, leftMax2);
+            else return (Math.max(leftMax1, leftMax2) + Math.min(rightMin1, rightMin2)) / 2;
+        }
+        else if (leftMax1 > rightMin2) right = p1 - 1;
+        else left = p1 + 1;
+    }
+
+    return 0;
+};
+
 // brute force would be to combine both arrays and then take the middle -> O(m + n)
 // O(log (m+n)) hints the use of binary search
 // i want to find a partition for each array
