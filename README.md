@@ -30,7 +30,7 @@
 
 | Problem                           | Last Completed |
 | --------------------------------- | -------------- |
-| [Game of Life](game-of-life.java) |                |
+| [Game of Life](game-of-life.java) | 09/03/25       |
 
 ## Heap
 
