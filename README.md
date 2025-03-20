@@ -59,6 +59,7 @@
 | ------------------------------------------- | -------------- |
 | [Number of Islands](number-of-islands.java) | 05/03/25       |
 | [01 Matrix](01-matrix.java)                 | 06/03/25       |
+| [Rotting Oranges](rotting-oranges.java)     | 20/03/25       |
 
 ## Map
 
@@ -120,6 +121,7 @@
 | ------------------------------------------- | -------------- |
 | [Number of Islands](number-of-islands.java) | 05/03/25       |
 | [01 Matrix](01-matrix.java)                 | 06/03/25       |
+| [Rotting Oranges](rotting-oranges.java)     | 20/03/25       |
 
 ## DP
 
