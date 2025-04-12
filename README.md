@@ -6,7 +6,7 @@
 
 | Problem                                                                                               | Last Completed |
 | ----------------------------------------------------------------------------------------------------- | -------------- |
-| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
+| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) | 12/04/25       |
 | [String Compression](string-compression.java)                                                         | 09/03/25       |
 | [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
 
@@ -93,7 +93,7 @@
 
 | Problem                                                                                               | Last Completed |
 | ----------------------------------------------------------------------------------------------------- | -------------- |
-| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) |                |
+| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) | 12/04/25       |
 | [Container With Most Water](container-with-most-water.java)                                           |                |
 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java)                             |                |
 | [Trapping Rain Water](trapping-rain-water.java)                                                       | 06/03/25       |
