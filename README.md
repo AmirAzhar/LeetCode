@@ -16,7 +16,7 @@
 | ----------------------------------------------------------------------------- | -------------- |
 | [Longest Interval](insert-interval.java)                                      |                |
 | [Product of Array Except Self](product-of-array-except-self.java)             |                |
-| [Maximum Subarray](maximum-subarray.java)                                     | 04/03/25       |
+| [Maximum Subarray](maximum-subarray.java)                                     | 14/04/25       |
 | [Coin Change](coin-change.java)                                               |                |
 | [Container With Most Water](container-with-most-water.java)                   |                |
 | [House Robber](house-robber.java)                                             |                |
@@ -131,7 +131,7 @@
 
 | Problem                                   | Last Completed |
 | ----------------------------------------- | -------------- |
-| [Maximum Subarray](maximum-subarray.java) | 04/03/25       |
+| [Maximum Subarray](maximum-subarray.java) | 14/04/25       |
 | [Coin Change](coin-change.java)           |                |
 | [House Robber](house-robber.java)         |                |
 
