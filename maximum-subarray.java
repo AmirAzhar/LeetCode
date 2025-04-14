@@ -3,32 +3,27 @@
 // Java
 class Solution {
     public int maxSubArray(int[] nums) {
-        int sum = nums[0];
-        int max = nums[0];
+        int max = nums[0], curr = 0;
 
-        for (int i = 1; i < nums.length; i++){
-            int n = nums[i];
-            sum = Math.max(n, sum + n);
-            max = Math.max(max, sum);
+        for (int num : nums){
+            curr = Math.max(curr + num, num);
+            max = Math.max(curr, max);
         }
-        
+
         return max;
-        
     }
 }
 
 // JS
 var maxSubArray = function(nums) {
-    let sum = nums[0];
-    let max = nums[0];
+    let max = nums[0], curr = 0;
 
-    for (let i = 1; i < nums.length; i++){
-        let n = nums[i];
-        sum = Math.max(n, sum + n);
-        max = Math.max(max, sum);
+    for (let i = 0; i < nums.length; i++){
+        curr = Math.max(curr + nums[i], nums[i]);
+        max = Math.max(curr, max);
     }
-        
-    return max; 
+
+    return max;
 };
 
 
