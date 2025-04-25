@@ -47,6 +47,7 @@
 | ------------------------------------------------------------------------- | -------------- |
 | [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation.java) |                |
 | [Daily Temperatures](daily-temperatures.java)                             | 25/04/25       |
+| [Decode String](decode-string.java)                                       | 25/04/25       |
 
 ## Tree
 
