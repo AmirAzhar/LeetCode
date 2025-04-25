@@ -46,6 +46,7 @@
 | Problem                                                                   | Last Completed |
 | ------------------------------------------------------------------------- | -------------- |
 | [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation.java) |                |
+| [Daily Temperatures](daily-temperatures.java)                             | 25/04/25       |
 
 ## Tree
 
@@ -138,3 +139,7 @@
 ## Binary Search
 
 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays.java) | 09/03/25 |
+
+## Monotonic Stack
+
+| [Daily Temperatures](daily-temperatures.java) | 25/04/25 |
