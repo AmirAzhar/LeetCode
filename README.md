@@ -77,6 +77,7 @@
 | Problem                                                                   | Last Completed |
 | ------------------------------------------------------------------------- | -------------- |
 | [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java) |                |
+| [Rotate List](rotate-list.java)                                           | 26/04/25       |
 
 ## Doubly Linked List
 
@@ -106,6 +107,7 @@
 | [Sort Colors](sort-colors.java)                                                                       | 04/03/25       |
 | [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
 | [3 Sum](3sum.java)                                                                                    | 06/03/25       |
+| [Rotate List](rotate-list.java)                                                                       | 26/04/25       |
 
 ## Prefix/Suffix Sum
 
