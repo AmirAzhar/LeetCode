@@ -33,6 +33,7 @@
 | --------------------------------------------------------------- | -------------- |
 | [Game of Life](game-of-life.java)                               | 09/03/25       |
 | [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
+| [Word Search](word-search.java)                                 | 26/04/25       |
 
 ## Heap
 
@@ -119,6 +120,7 @@
 | [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java) |                |
 | [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
 | [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java)             | 14/04/25       |
+| [Word Search](word-search.java)                                             | 26/04/25       |
 
 ## BFS
 
