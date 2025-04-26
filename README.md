@@ -9,6 +9,7 @@
 | [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) | 12/04/25       |
 | [String Compression](string-compression.java)                                                         | 09/03/25       |
 | [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
+| [Largest Numberg](largest-number.java)                                                                | 26/04/25       |
 
 ## Arrays
 
@@ -148,3 +149,7 @@
 ## Monotonic Stack
 
 | [Daily Temperatures](daily-temperatures.java) | 25/04/25 |
+
+## Custom Sort
+
+| [Largest Numberg](largest-number.java) | 26/04/25 |
