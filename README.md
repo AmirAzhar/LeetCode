@@ -30,11 +30,9 @@
 
 ## 2D Arrays
 
-| Problem                                                         | Last Completed |
-| --------------------------------------------------------------- | -------------- |
-| [Game of Life](game-of-life.java)                               | 09/03/25       |
-| [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
-| [Word Search](word-search.java)                                 | 26/04/25       |
+| Problem                           | Last Completed |
+| --------------------------------- | -------------- |
+| [Game of Life](game-of-life.java) | 09/03/25       |
 
 ## Heap
 
@@ -57,15 +55,6 @@
 | --------------------------------------------------------------------------- | -------------- |
 | [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java) |                |
 | [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
-
-## Queue
-
-| Problem                                                         | Last Completed |
-| --------------------------------------------------------------- | -------------- |
-| [Number of Islands](number-of-islands.java)                     | 05/03/25       |
-| [01 Matrix](01-matrix.java)                                     | 06/03/25       |
-| [Rotting Oranges](rotting-oranges.java)                         | 20/03/25       |
-| [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
 
 ## Map
 
@@ -91,6 +80,17 @@
 | Problem                                                         | Last Completed |
 | --------------------------------------------------------------- | -------------- |
 | [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java) |                |
+
+## Graph
+
+| Problem                                                         | Last Completed |
+| --------------------------------------------------------------- | -------------- |
+| [Accounts Merge](accounts-merge.java)                           | 28/04/25       |
+| [01 Matrix](01-matrix.java)                                     | 06/03/25       |
+| [Number of Islands](number-of-islands.java)                     | 05/03/25       |
+| [Rotting Oranges](rotting-oranges.java)                         | 20/03/25       |
+| [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
+| [Word Search](word-search.java)                                 | 26/04/25       |
 
 ---
 
@@ -124,6 +124,7 @@
 | [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
 | [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java)             | 14/04/25       |
 | [Word Search](word-search.java)                                             | 26/04/25       |
+| [Accounts Merge](accounts-merge.java)                                       | 28/04/25       |
 
 ## BFS
 
