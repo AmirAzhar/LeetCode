@@ -20,7 +20,7 @@
 | [Maximum Subarray](maximum-subarray.java)                                     | 14/04/25       |
 | [Coin Change](coin-change.java)                                               | 29/04/25       |
 | [Container With Most Water](container-with-most-water.java)                   | 29/04/25       |
-| [House Robber](house-robber.java)                                             |                |
+| [House Robber](house-robber.java)                                             | 29/04/25       |
 | [Trapping Rain Water](trapping-rain-water.java)                               | 06/03/25       |
 | [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                   | 09/03/25       |
 | [First Unique Character in a String](first-unique-character-in-a-string.java) |                |
@@ -142,7 +142,7 @@
 | ----------------------------------------- | -------------- |
 | [Maximum Subarray](maximum-subarray.java) | 14/04/25       |
 | [Coin Change](coin-change.java)           |                |
-| [House Robber](house-robber.java)         |                |
+| [House Robber](house-robber.java)         | 29/04/25       |
 | [Climbing Stairs](climbing-stairs.java)   | 29/04/25       |
 
 ## Binary Search
