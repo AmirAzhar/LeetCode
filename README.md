@@ -1,103 +1,6 @@
 [Grind 169 List](https://www.techinterviewhandbook.org/grind75/?weeks=26&grouping=none&difficulty=Medium&difficulty=Hard&hours=40)
 
-# By Data Structure
-
-## Strings
-
-| Problem                                                                                               | Last Completed |
-| ----------------------------------------------------------------------------------------------------- | -------------- |
-| [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.java) | 12/04/25       |
-| [String Compression](string-compression.java)                                                         | 09/03/25       |
-| [Find All Anagrams in a String](find-all-anagrams-in-a-string.java)                                   | 05/03/25       |
-| [Largest Numberg](largest-number.java)                                                                | 26/04/25       |
-
-## Arrays
-
-| Problem                                                                       | Last Completed |
-| ----------------------------------------------------------------------------- | -------------- |
-| [Longest Interval](insert-interval.java)                                      |                |
-| [Product of Array Except Self](product-of-array-except-self.java)             |                |
-| [Maximum Subarray](maximum-subarray.java)                                     | 14/04/25       |
-| [Coin Change](coin-change.java)                                               | 29/04/25       |
-| [Container With Most Water](container-with-most-water.java)                   | 29/04/25       |
-| [House Robber](house-robber.java)                                             | 29/04/25       |
-| [Trapping Rain Water](trapping-rain-water.java)                               | 06/03/25       |
-| [Minimum Size Subarray Sum](minimum-size-subarray-sum.java)                   | 09/03/25       |
-| [First Unique Character in a String](first-unique-character-in-a-string.java) |                |
-| [Sort Colors](sort-colors.java)                                               | 04/03/25       |
-| [3 Sum](3sum.java)                                                            | 06/03/25       |
-| [Median of Two Sorted Arrays](median-of-two-sorted-arrays.java)               | 09/03/25       |
-| [Climbing Stairs](climbing-stairs.java)                                       | 29/04/25       |
-
-## 2D Arrays
-
-| Problem                           | Last Completed |
-| --------------------------------- | -------------- |
-| [Game of Life](game-of-life.java) | 09/03/25       |
-
-## Heap
-
-| Problem                                                       | Last Completed |
-| ------------------------------------------------------------- | -------------- |
-| [K Closest Points to Origin](k-closest-points-to-origin.java) |                |
-| [Top K Frequent Words](top-k-frequent-words.java)             |                |
-
-## Stack
-
-| Problem                                                                   | Last Completed |
-| ------------------------------------------------------------------------- | -------------- |
-| [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation.java) |                |
-| [Daily Temperatures](daily-temperatures.java)                             | 25/04/25       |
-| [Decode String](decode-string.java)                                       | 25/04/25       |
-
-## Tree
-
-| Problem                                                                     | Last Completed |
-| --------------------------------------------------------------------------- | -------------- |
-| [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.java) |                |
-| [Validate Binary Search Tree](validate-binary-search-tree.java)             |                |
-
-## Map
-
-| Problem                               | Last Completed |
-| ------------------------------------- | -------------- |
-| [Group Anagrams](group-anagrams.java) |                |
-
-## Linked List
-
-| Problem                                                                   | Last Completed |
-| ------------------------------------------------------------------------- | -------------- |
-| [Remove Nth Node From End of List](remove-nth-node-from-end-of-list.java) |                |
-| [Rotate List](rotate-list.java)                                           | 26/04/25       |
-
-## Doubly Linked List
-
-| Problem                     | Last Completed |
-| --------------------------- | -------------- |
-| [LRU Cache](lru-cache.java) |                |
-
-## Trie
-
-| Problem                                                         | Last Completed |
-| --------------------------------------------------------------- | -------------- |
-| [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java) |                |
-
-## Graph
-
-| Problem                                                         | Last Completed |
-| --------------------------------------------------------------- | -------------- |
-| [Accounts Merge](accounts-merge.java)                           | 28/04/25       |
-| [01 Matrix](01-matrix.java)                                     | 06/03/25       |
-| [Number of Islands](number-of-islands.java)                     | 05/03/25       |
-| [Rotting Oranges](rotting-oranges.java)                         | 20/03/25       |
-| [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
-| [Word Search](word-search.java)                                 | 26/04/25       |
-
----
-
-# By Algorithm
-
-## Sliding Window / 2 Pointer
+# Sliding Window / 2 Pointer
 
 | Problem                                                                                               | Last Completed |
 | ----------------------------------------------------------------------------------------------------- | -------------- |
@@ -111,13 +14,13 @@
 | [3 Sum](3sum.java)                                                                                    | 06/03/25       |
 | [Rotate List](rotate-list.java)                                                                       | 26/04/25       |
 
-## Prefix/Suffix Sum
+# Prefix/Suffix Sum
 
 | Problem                                                           | Last Completed |
 | ----------------------------------------------------------------- | -------------- |
 | [Product of Array Except Self](product-of-array-except-self.java) |                |
 
-## DFS
+# DFS
 
 | Problem                                                                     | Last Completed |
 | --------------------------------------------------------------------------- | -------------- |
@@ -127,7 +30,7 @@
 | [Word Search](word-search.java)                                             | 26/04/25       |
 | [Accounts Merge](accounts-merge.java)                                       | 28/04/25       |
 
-## BFS
+# BFS
 
 | Problem                                                         | Last Completed |
 | --------------------------------------------------------------- | -------------- |
@@ -136,7 +39,7 @@
 | [Rotting Oranges](rotting-oranges.java)                         | 20/03/25       |
 | [Pacific Atlantic Water Flow](pacific-atlantic-water-flow.java) | 14/04/25       |
 
-## DP
+# DP
 
 | Problem                                   | Last Completed |
 | ----------------------------------------- | -------------- |
@@ -144,15 +47,47 @@
 | [Coin Change](coin-change.java)           |                |
 | [House Robber](house-robber.java)         | 29/04/25       |
 | [Climbing Stairs](climbing-stairs.java)   | 29/04/25       |
+| [Jump Game](jump-game.java)               | 29/04/25       |
 
-## Binary Search
+# Binary Search
 
 | [Median of Two Sorted Arrays](median-of-two-sorted-arrays.java) | 09/03/25 |
 
-## Monotonic Stack
+# Monotonic Stack
 
 | [Daily Temperatures](daily-temperatures.java) | 25/04/25 |
 
-## Custom Sort
+# Custom Sort
 
-| [Largest Numberg](largest-number.java) | 26/04/25 |
+| [Largest Number](largest-number.java) | 26/04/25 |
+
+# Heap / Priority Queue
+
+| Problem                                                       | Last Completed |
+| ------------------------------------------------------------- | -------------- |
+| [K Closest Points to Origin](k-closest-points-to-origin.java) |                |
+| [Top K Frequent Words](top-k-frequent-words.java)             |                |
+
+# Matrix Simulation
+
+| Problem                           | Last Completed |
+| --------------------------------- | -------------- |
+| [Game of Life](game-of-life.java) | 09/03/25       |
+
+# Hashing / Map
+
+| Problem                               | Last Completed |
+| ------------------------------------- | -------------- |
+| [Group Anagrams](group-anagrams.java) |                |
+
+# Trie
+
+| Problem                                                         | Last Completed |
+| --------------------------------------------------------------- | -------------- |
+| [Implement Trie (Prefix Tree)](implement-trie-prefix-tree.java) |                |
+
+# Design / Cache
+
+| Problem                     | Last Completed |
+| --------------------------- | -------------- |
+| [LRU Cache](lru-cache.java) |                |
