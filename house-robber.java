@@ -1,17 +1,17 @@
-// https://leetcode.com/problems/house-robber/submissions/1526181041/
+// https://leetcode.com/problems/house-robber/
 
 // Java
 class Solution {
     public int rob(int[] nums) {
-        int prev = 0, prev2 = 0;
-    
-        for (int num : nums){
-            int temp = Math.max(prev, prev2 + num);
-            prev2 = prev;
-            prev = temp;
+        int prev1 = 0, prev2 = 0;
+
+        for (int num : nums) {
+            int curr = Math.max(prev1, prev2 + num);
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return prev;
+        return prev1;
     }
 }
 
@@ -28,15 +28,10 @@ var rob = function(nums) {
     return prev
 };
 
-// Thought process for solving the House Robber problem:
-//
-// // Can't rob two adjacent houses — need to decide at each house: rob or skip.
-// // Defined subproblem: let rob(i) be the max money robbed up to house i.
-// // Recurrence relation: rob(i) = max(rob(i-1), rob(i-2) + nums[i])
-// // This means: either skip current house, or rob it and add it to total from two houses back.
-// // Used iteration instead of recursion to avoid stack overhead and simplify code.
-// // Tracked only two previous results using variables: prev1 (i-1), prev2 (i-2).
-// // Initialized prev1 = 0 and prev2 = 0, since no money before the first house.
-// // In each iteration, calculated current = max(prev1, prev2 + num)
-// // Then updated prev2 = prev1, prev1 = current for next step.
-// // After processing all houses, prev1 holds the maximum money that can be robbed.
+// at every house you have a choice to rob a house or not
+// What gives us more money — skipping this house and keeping what we had, or robbing this house and adding its value to the best we could get two houses ago
+// so we need to track the max value at the prev house, and prev prev house
+// at any house we can either 
+    // not rob and keep what we already have from the prev house - prev1
+    // rob and add on to what we had in the prev prev house - prev2 + num
+// return prev1 because that is the max value at the last ele

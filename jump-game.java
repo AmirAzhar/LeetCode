@@ -13,12 +13,8 @@ class Solution {
     }
 }
 
-// Thought process for solving the Jump Game problem:
-//
-// // Goal is to determine if you can reach the last index starting from index 0.
-// // nums[i] tells you the max jump length from index i.
-// // Instead of exploring all paths, we use a greedy strategy.
-// // Start from the end and move backward, keeping track of the "goal" index we need to reach.
-// // At each index, check if you can jump to or past the current goal: i + nums[i] >= goal.
-// // If yes, move the goal to this index.
-// // If by the end, goal has moved to 0, it means we can reach the last index from the start.
+// can i reach the goal from somewhere else?
+// be greedy - I know how to get from here to the end, so now I just need to check if I can get to here from earlier
+// Starting from the end, I check whether each index can jump to or beyond the current goal -> nums[i] + i >= goal
+// If it can, I update the goal to that index -> goal = i
+// If I can move the goal all the way back to index 0, it means the start can reach the end -> goal == 0
