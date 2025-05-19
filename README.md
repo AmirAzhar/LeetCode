@@ -44,10 +44,10 @@
 | Problem                                   | Last Completed |
 | ----------------------------------------- | -------------- |
 | [Maximum Subarray](maximum-subarray.java) | 14/04/25       |
-| [Coin Change](coin-change.java)           |                |
-| [House Robber](house-robber.java)         | 29/04/25       |
+| [Coin Change](coin-change.java)           | 17/05/25       |
+| [House Robber](house-robber.java)         | 17/05/25       |
 | [Climbing Stairs](climbing-stairs.java)   | 29/04/25       |
-| [Jump Game](jump-game.java)               | 29/04/25       |
+| [Jump Game](jump-game.java)               | 17/05/25       |
 
 # Binary Search
 
@@ -63,10 +63,12 @@
 
 # Heap / Priority Queue
 
-| Problem                                                       | Last Completed |
-| ------------------------------------------------------------- | -------------- |
-| [K Closest Points to Origin](k-closest-points-to-origin.java) |                |
-| [Top K Frequent Words](top-k-frequent-words.java)             |                |
+| Problem                                                                 | Last Completed |
+| ----------------------------------------------------------------------- | -------------- |
+| [K Closest Points to Origin](k-closest-points-to-origin.java)           | 19/05/25       |
+| [Top K Frequent Words](top-k-frequent-words.java)                       | 19/05/25       |
+| [Find K Closest Elements](find-k-closest-elements.java)                 | 19/05/25       |
+| [Kth Largest Element in an Array](kth-largest-element-in-an-array.java) | 19/05/25       |
 
 # Matrix Simulation
 
