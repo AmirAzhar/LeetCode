@@ -64,4 +64,11 @@ class Solution {
     }
 }
 
-// https://chatgpt.com/c/683027f8-c86c-800d-854a-b3927673db9a
+// i need to find the mid so that i can split the array into 2
+    // 123 45
+// i can then reverse the second array
+    // 123 54
+// now i can easily weave between both lists
+    // use a while condition that checks if second list is null
+    // if null means no more to splice
+    // second half will alywas be smaller than the first half due to the splitting
