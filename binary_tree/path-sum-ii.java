@@ -30,6 +30,11 @@ class Solution {
     }
 }
 
-
-// i can perform a dfs and add all the number i find in that call stack
-// i need to use an ArrayList to keep track of the nodes that i call for that stack
+// i will perform dfs + a path array that keps track of the current path
+// when i reach the leaf node
+    // i check what is the remianing sum == 0
+    // if it is, then i add to the res
+// we also need to backtrack, backtrack usually happens in the following way
+    // choose path/decision - path.add(choice)
+    // make recrseive calls based on that decision - dfs(next_state)
+    // backtrack/undo the choice - path.remove(path.size - 1)
